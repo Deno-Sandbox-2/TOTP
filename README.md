@@ -15,3 +15,6 @@ for await (const code of TOTP.generateTOTP(key, 30, 6)) {
     console.log(code);
 }
 ```
+
+# problem ?
+open an issue [here](https://github.com/Deno-Sandbox-2/TOTP/issues)
